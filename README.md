@@ -1,4 +1,4 @@
-# script
+# 1.script
 centos bash界面中文配置
 
 yum -y install kde-l10n-Chinese && yum -y reinstall glibc-common
@@ -22,7 +22,7 @@ LC_ALL=zh_CN.UTF_8
 LANG=zh_CN.UTF_8
 
 
-# 配置好看的bash和alias
+# 2.配置好看的bash和alias
 # .bash_profile
 
 # Get the aliases and functions
